@@ -1,0 +1,6 @@
+Requisita a altura
+Valida a altura
+O primeiro loop cordena a altura
+o segundo loop cordena o espaço astes das hashtags
+o terceiro loop cordena as hashtags
+o printf cordena as quebras de linha

@@ -1,0 +1,8 @@
+inserir um valor tipo float
+validar se o valor é positivo
+dividir o valor da moeda maior para a menor
+usar do/while value > valor da moeda
+contar quantas vezes esse do/while rodou
+utilizar esse valor para mostrar quantas moedas sao necessarias
+se mod = 0 entao apresentar o valor do resto
+mod deve ser passado pra frente
